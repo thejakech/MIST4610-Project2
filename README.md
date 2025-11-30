@@ -30,3 +30,9 @@ MatchTeam: Indicates which teams participate in each match.
 MatchPlayer: Tracks individual player participation in matches.
 
 Ranking: Records seasonal team and player rankings to evaluate competitive performance.
+
+# Data Dictionary:
+
+# Queries:
+
+# Tableu Visualizations:
