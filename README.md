@@ -9,3 +9,24 @@
 
 # Discription:
 This college tennis database is designed to manage and analyze all major aspects of a university-level tennis database through an organized system for managing teams, players, coaches, conferences, matches, and tournaments. It captures essential player and team details, supports dynamic roster changes across seasons, and documents coaching assignments and conference alignment. Match participation is recorded for both teams and individual athletes, while tournament results and seasonal rankings offer a clear view of competitive performance. By connecting teams, players, matches, and tournaments, the database delivers a unified structure for overseeing tennis operations and evaluating outcomes.
+Team: Stores team information such as college name, division, assigned coach, and conference affiliation.
+
+Coach: Holds details about each coach, including name and title, and identifies which conference they belong to.
+
+Conference: Categorizes teams by conference and classification to organize competition levels.
+
+Player: Contains player information like name, age, gender, and class year.
+
+TeamRoster: Represents roster assignments, showing which players belong to which teams during a given season.
+
+Tournament: Tracks tournament details including date, location, and season.
+
+TournamentResult: Records tournament outcomes by linking teams to tournaments and documenting the winner.
+
+Match: Stores match details such as round, date, season, and associated tournament.
+
+MatchTeam: Indicates which teams participate in each match.
+
+MatchPlayer: Tracks individual player participation in matches.
+
+Ranking: Records seasonal team and player rankings to evaluate competitive performance.
