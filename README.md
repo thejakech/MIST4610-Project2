@@ -33,7 +33,8 @@ MatchPlayer: Tracks individual player participation in matches.
 Ranking: Records seasonal team and player rankings to evaluate competitive performance.
 
 # Data Dictionary:
-*Team
+*Team*
+
 <img width="700" height="237" alt="Screenshot 2025-11-30 at 7 35 08 PM" src="https://github.com/user-attachments/assets/8d1e9233-4192-4d24-90a2-00c98088c718" />
 
 # Queries:
