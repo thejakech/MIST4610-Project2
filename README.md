@@ -39,19 +39,35 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 **Coach**
 
+<img width="700" height="208" alt="Screenshot 2025-11-30 at 7 52 33 PM" src="https://github.com/user-attachments/assets/571519e1-7eab-4c35-be96-ce314a4d6a87" />
+
 **Conference**
+
+<img width="700" height="128" alt="Screenshot 2025-11-30 at 7 52 50 PM" src="https://github.com/user-attachments/assets/0276e869-2843-477a-a29f-177f6944c82a" />
 
 **Player**
 
+<img width="700" height="254" alt="Screenshot 2025-11-30 at 7 53 38 PM" src="https://github.com/user-attachments/assets/348ff6e6-0ad2-4940-b873-d76ffce2bca3" />
+
 **TeamRoster**
+
+<img width="700" height="112" alt="Screenshot 2025-11-30 at 7 53 54 PM" src="https://github.com/user-attachments/assets/c41f687a-958a-461d-8ff5-044fa8d7ed3b" />
 
 **Tournament**
 
+<img width="700" height="183" alt="Screenshot 2025-11-30 at 7 54 28 PM" src="https://github.com/user-attachments/assets/618b7bb9-e5b1-49c3-a80d-18f1bbb316f8" />
+
 **TournamentResult**
+
+<img width="700" height="183" alt="Screenshot 2025-11-30 at 7 54 49 PM" src="https://github.com/user-attachments/assets/285585d9-b4ee-4ddd-8a5e-2845207deaad" />
 
 **Match**
 
+<img width="700" height="239" alt="Screenshot 2025-11-30 at 7 55 07 PM" src="https://github.com/user-attachments/assets/00e0feb9-ece2-4977-b40d-f67b082836a9" />
+
 **MatchTeam**
+
+<img width="700" height="113" alt="Screenshot 2025-11-30 at 7 55 22 PM" src="https://github.com/user-attachments/assets/4d4f4e49-cf0b-495b-a258-ce90c21dc3da" />
 
 **MatchPlayer**
 
