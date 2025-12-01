@@ -88,6 +88,8 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 
 **Query 4**: Gives coaches and analysts insight into how deep each team’s lineup was in the national championship match and whether they relied on a balanced mix of classes or mainly older players.
+<img width="737" height="502" alt="image" src="https://github.com/user-attachments/assets/7318adb3-d559-44ea-9a5b-2e069b322762" />
+
 
 **Query 5**: A manager or coach needs to track which players contribute the most in matches. This helps identify reliable players, and with making lineup decisions.
 
