@@ -84,6 +84,7 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 <img width="521" height="172" alt="Screenshot 2025-11-30 at 11 49 39 PM" src="https://github.com/user-attachments/assets/c192bf1a-d4df-4b3c-8f0b-d4524273163a" />
 
 **Query 2**: Helps conference officials or athletic directors evaluate which coaches are most successful in postseason play within a specific conference.
+
 <img width="685" height="259" alt="Screenshot 2025-11-30 at 11 44 03 PM" src="https://github.com/user-attachments/assets/1599fc39-0a31-4ad9-b7d5-39748eb1469c" />
 <img width="482" height="164" alt="Screenshot 2025-11-30 at 11 44 35 PM" src="https://github.com/user-attachments/assets/9f49eef5-ce96-4a4c-8003-9efbad376cbb" />
 
