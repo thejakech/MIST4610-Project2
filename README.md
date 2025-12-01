@@ -123,6 +123,9 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
       **Description**: This visualization helps coaches understand how experience level influences player involvement in different stages of the tournament. Each dot on the graph             represents a player in that tournament round. With the Class Year on one axis and Round on another axis, the scatter plot gives a clear view of which groups are                   participating at each level of the tournament. 
 
+# TABLEAU DASHBOARD
+
+<img width="1298" height="1370" alt="MIST 4610 PROJECT 2" src="https://github.com/user-attachments/assets/be1da138-31d6-4cbe-8c24-b105273fe082" />
 
    
 
