@@ -71,7 +71,12 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 **MatchPlayer**
 
-Ranking
+<img width="700" height="112" alt="Screenshot 2025-11-30 at 7 58 37 PM" src="https://github.com/user-attachments/assets/5e7c3130-f66e-4e56-bdf4-3ec2680354a0" />
+
+**Ranking**
+
+<img width="700" height="241" alt="Screenshot 2025-11-30 at 7 57 58 PM" src="https://github.com/user-attachments/assets/c2b675af-e2d9-4e2c-a8ac-3a10c8b4a9eb" />
+
 # Queries:
 
 # Tableu Visualizations:
