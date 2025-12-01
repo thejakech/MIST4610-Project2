@@ -78,5 +78,14 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 <img width="700" height="241" alt="Screenshot 2025-11-30 at 7 57 58 PM" src="https://github.com/user-attachments/assets/c2b675af-e2d9-4e2c-a8ac-3a10c8b4a9eb" />
 
 # Queries:
+**Query 1**: Enables comparison of how strong each conference is in NCAA tournaments, which is useful for conference leadership and athletic directors when evaluating overall competitiveness.
+
+**Query 2**: Helps conference officials or athletic directors evaluate which coaches are most successful in postseason play within a specific conference.
+
+**Query 3**: Allows coaches and recruiting coordinators to see which programs are most at risk of losing a large share of their roster to graduation, guiding recruiting and scholarship planning.
+
+**Query 4**: Gives coaches and analysts insight into how deep each team’s lineup was in the national championship match and whether they relied on a balanced mix of classes or mainly older players.
+
+**Query 5**: A manager or coach needs to track which players contribute the most in matches. This helps identify reliable players, and with making lineup decisions.
 
 # Tableu Visualizations:
