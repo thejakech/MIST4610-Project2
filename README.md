@@ -92,5 +92,10 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 
 **Query 5**: A manager or coach needs to track which players contribute the most in matches. This helps identify reliable players, and with making lineup decisions.
+<img width="560" height="705" alt="image" src="https://github.com/user-attachments/assets/58f94d43-9288-4e1f-9111-ddaf5ed1549a" />
+**...**
+<img width="597" height="393" alt="image" src="https://github.com/user-attachments/assets/b9725573-69b0-4fbf-b084-f91b569c1d92" />
+
+
 
 # Tableu Visualizations:
