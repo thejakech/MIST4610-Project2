@@ -113,6 +113,11 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
       **Description**: This visualization looks at team participation across the different rounds of tournaments (Final, Semifinal, and Quarterfinal). For managers and coaches,                   this is important because it highlights how deep each team advances in a competition. The teams that reach the final rounds consistently show stronger performance                 and have a competitive advantage, while the teams that get eliminated in early rounds may need some adjustments. This breakdown can also help track progress                      over time. We chose the stacked bar chart to visualize this because it provides a more inclusive view than a simpler bar chart.
 
+3. How does a player’s class year relate to participation in different tournament rounds?
+   <img width="441" height="565" alt="Screenshot 2025-11-30 at 10 47 29 PM" src="https://github.com/user-attachments/assets/669df8c5-4aed-4301-bfdf-5ce34b9aa977" />
+
+      **Description**: This visualization helps coaches understand how experience level influences player involvement in different stages of the tournament. Each dot on the graph             represents a player in that tournament round. With the Class Year on one axis and Round on another axis, the scatter plot gives a clear view of which groups are                   participating at each level of the tournament. 
+
 
    
 
