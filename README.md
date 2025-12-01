@@ -113,7 +113,7 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
    <img width="837" height="571" alt="Screenshot 2025-11-30 at 10 37 12 PM" src="https://github.com/user-attachments/assets/a37ad1d7-a7c8-4184-b4e4-6f0901e8dd3a" />
 
-      **Description**: This visualization looks at team participation across the different rounds of tournaments (Ornage=Final, Green=Semifinal, Red=Quarterfinal, and Blue=Null). For managers and coaches, this is important because it highlights how deep each team advances in a competition. The teams that reach the final rounds consistently show stronger performance and have a competitive advantage, while the teams that get eliminated in early rounds may need some adjustments. This breakdown can also help track progress over time. We chose the stacked bar chart to visualize this because it provides a more inclusive view than a simpler bar chart.
+      **Description**: This visualization looks at team participation across the different rounds of tournaments (Orange = Final, Green = Semifinal, Red = Quarterfinal, and Blue=Null). For managers and coaches, this is important because it highlights how deep each team advances in a competition. The teams that reach the final rounds consistently show stronger performance and have a competitive advantage, while the teams that get eliminated in early rounds may need some adjustments. This breakdown can also help track progress over time. We chose the stacked bar chart to visualize this because it provides a more inclusive view than a simpler bar chart.
 
 
 
