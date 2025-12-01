@@ -107,13 +107,18 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
      **Description**: This visualization helps coaches, analysts, and team managers understand each player's workload. Some players may be overused, and that can be a risk of                 injury, while others may not be getting enough competitive matches. We used a bar chart and sorted it to rank players from most active to least active.
 
+
+
 2. Which teams play the most matches, and how do their matches distribute across rounds (Final, Semifinal, Quarterfinal)?
 
    <img width="837" height="571" alt="Screenshot 2025-11-30 at 10 37 12 PM" src="https://github.com/user-attachments/assets/a37ad1d7-a7c8-4184-b4e4-6f0901e8dd3a" />
 
       **Description**: This visualization looks at team participation across the different rounds of tournaments (Final, Semifinal, and Quarterfinal). For managers and coaches,                   this is important because it highlights how deep each team advances in a competition. The teams that reach the final rounds consistently show stronger performance                 and have a competitive advantage, while the teams that get eliminated in early rounds may need some adjustments. This breakdown can also help track progress                      over time. We chose the stacked bar chart to visualize this because it provides a more inclusive view than a simpler bar chart.
 
+
+
 3. How does a player’s class year relate to participation in different tournament rounds?
+   
    <img width="441" height="565" alt="Screenshot 2025-11-30 at 10 47 29 PM" src="https://github.com/user-attachments/assets/669df8c5-4aed-4301-bfdf-5ce34b9aa977" />
 
       **Description**: This visualization helps coaches understand how experience level influences player involvement in different stages of the tournament. Each dot on the graph             represents a player in that tournament round. With the Class Year on one axis and Round on another axis, the scatter plot gives a clear view of which groups are                   participating at each level of the tournament. 
