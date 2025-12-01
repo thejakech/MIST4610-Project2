@@ -102,9 +102,17 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 # Tableau Visualizations:
 1. Which players participated in the most matches?
+   
    <img width="842" height="554" alt="Screenshot 2025-11-30 at 10 25 07 PM" src="https://github.com/user-attachments/assets/835511bb-ab85-4454-a686-340900a738ff" />
 
      **Description**: This visualization helps coaches, analysts, and team managers understand each player's workload. Some players may be overused, and that can be a risk of                 injury, while others may not be getting enough competitive matches. We used a bar chart and sorted it to rank players from most active to least active.
+
+2. Which teams play the most matches, and how do their matches distribute across rounds (Final, Semifinal, Quarterfinal)?
+
+   <img width="837" height="571" alt="Screenshot 2025-11-30 at 10 37 12 PM" src="https://github.com/user-attachments/assets/a37ad1d7-a7c8-4184-b4e4-6f0901e8dd3a" />
+
+   
+
 
    
 
