@@ -95,10 +95,9 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 <img width="571" height="693" alt="image" src="https://github.com/user-attachments/assets/1782754b-b4a9-4b03-baf2-5e2478f60600" />
 
-# ...
+## ...
 
-<img width="597" height="393" alt="image" src="https://github.com/user-attachments/assets/b9725573-69b0-4fbf-b084-f91b569c1d92" />
-
+<img width="586" height="457" alt="image" src="https://github.com/user-attachments/assets/927eab0b-410d-4578-82fa-c2801a22f29d" />
 
 
 # Tableu Visualizations:
