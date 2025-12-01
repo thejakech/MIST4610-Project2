@@ -79,7 +79,9 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 <img width="700" height="241" alt="Screenshot 2025-11-30 at 7 57 58 PM" src="https://github.com/user-attachments/assets/c2b675af-e2d9-4e2c-a8ac-3a10c8b4a9eb" />
 
 # Queries:
-**Query 1**: Enables comparison of how strong each conference is in NCAA tournaments, which is useful for conference leadership and athletic directors when evaluating overall competitiveness.
+**Query 1**: Compares coaches schedule based on the most recent season to look for any adjustments based on workload balance and preformane expectations in tournaments
+<img width="738" height="509" alt="Screenshot 2025-11-30 at 11 49 05 PM" src="https://github.com/user-attachments/assets/a2a8a010-e47d-41e8-b3ca-3fe9107735d5" />
+<img width="521" height="172" alt="Screenshot 2025-11-30 at 11 49 39 PM" src="https://github.com/user-attachments/assets/c192bf1a-d4df-4b3c-8f0b-d4524273163a" />
 
 **Query 2**: Helps conference officials or athletic directors evaluate which coaches are most successful in postseason play within a specific conference.
 <img width="685" height="259" alt="Screenshot 2025-11-30 at 11 44 03 PM" src="https://github.com/user-attachments/assets/1599fc39-0a31-4ad9-b7d5-39748eb1469c" />
