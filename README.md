@@ -35,7 +35,7 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 # Data Dictionary:
 **Team**
 
-<img width="700" height="237" alt="Screenshot 2025-11-30 at 7 35 08 PM" src="https://github.com/user-attachments/assets/8d1e9233-4192-4d24-90a2-00c98088c718" />
+<img width="692" height="239" alt="Screenshot 2025-11-30 at 8 02 55 PM" src="https://github.com/user-attachments/assets/00a3b71f-4ad1-4d1e-bc55-87fbe0337c81" />
 
 **Coach**
 
