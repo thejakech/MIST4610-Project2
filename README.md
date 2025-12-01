@@ -101,7 +101,7 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 
 # Tableau Visualizations:
-1. Which players participated in the most matches?
+**1. Which players participated in the most matches?**
    
    <img width="842" height="554" alt="Screenshot 2025-11-30 at 10 25 07 PM" src="https://github.com/user-attachments/assets/835511bb-ab85-4454-a686-340900a738ff" />
 
@@ -109,7 +109,7 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 
 
-2. Which teams play the most matches, and how do their matches distribute across rounds (Final, Semifinal, Quarterfinal)?
+**2. Which teams play the most matches, and how do their matches distribute across rounds (Final, Semifinal, Quarterfinal)?**
 
    <img width="837" height="571" alt="Screenshot 2025-11-30 at 10 37 12 PM" src="https://github.com/user-attachments/assets/a37ad1d7-a7c8-4184-b4e4-6f0901e8dd3a" />
 
@@ -117,7 +117,7 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 
 
 
-3. How does a player’s class year relate to participation in different tournament rounds?
+**3. How does a player’s class year relate to participation in different tournament rounds?**
    
    <img width="441" height="565" alt="Screenshot 2025-11-30 at 10 47 29 PM" src="https://github.com/user-attachments/assets/669df8c5-4aed-4301-bfdf-5ce34b9aa977" />
 
