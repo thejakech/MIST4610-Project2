@@ -32,7 +32,6 @@ MatchPlayer: Tracks individual player participation in matches.
 
 Ranking: Records seasonal team and player rankings to evaluate competitive performance.
 
-# Queries:
 
 # Data Dictionary:
 **Team**
@@ -85,6 +84,8 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 **Query 2**: Helps conference officials or athletic directors evaluate which coaches are most successful in postseason play within a specific conference.
 
 **Query 3**: Allows coaches and recruiting coordinators to see which programs are most at risk of losing a large share of their roster to graduation, guiding recruiting and scholarship planning.
+<img width="1270" height="715" alt="image" src="https://github.com/user-attachments/assets/8112ecb1-e6ec-4442-924c-f9ee6bd5d5d1" />
+
 
 **Query 4**: Gives coaches and analysts insight into how deep each team’s lineup was in the national championship match and whether they relied on a balanced mix of classes or mainly older players.
 
