@@ -100,4 +100,11 @@ Ranking: Records seasonal team and player rankings to evaluate competitive perfo
 <img width="586" height="457" alt="image" src="https://github.com/user-attachments/assets/927eab0b-410d-4578-82fa-c2801a22f29d" />
 
 
-# Tableu Visualizations:
+# Tableau Visualizations:
+1. Which players participated in the most matches?
+   <img width="842" height="554" alt="Screenshot 2025-11-30 at 10 25 07 PM" src="https://github.com/user-attachments/assets/835511bb-ab85-4454-a686-340900a738ff" />
+
+     **Description**: This visualization helps coaches, analysts, and team managers understand each player's workload. Some players may be overused, and that can be a risk of                 injury, while others may not be getting enough competitive matches. We used a bar chart and sorted it to rank players from most active to least active.
+
+   
+
